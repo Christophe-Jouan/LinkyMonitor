@@ -48,3 +48,10 @@ Process chargé des visualisations HTML:<ul>
 <li> Calcule la puissance injectée en se basant sur IINST et sur une PAPP=0</li>
 <li>Calcule les totaux consommés et les coûts associés</li>
 </ul>
+<hr/>
+
+<b>Un peu de documentation</b><br/>
+<b>LinkyMonitor.pdf</b><br/>
+Le descriptif complet de la config OS sur RPi, du cablage, et de l'exploitation des scripts
+
+<p>Have fun...</p>
