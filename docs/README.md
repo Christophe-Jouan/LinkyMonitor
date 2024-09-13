@@ -50,3 +50,11 @@ Process chargé des visualisations HTML:<ul>
 </ul>
 LinkyGraphCreate produit une page HTML utilisant le module <a href="https://dygraphs.com">DyGraphs</a>, bibliothèque javascript de visualisation de données.
 (<a href="https://dygraphs.com/LICENSE.txt">MIT license</a>)
+<hr/>
+
+<b>Un peu de documentation</b><br/>
+<b>LinkyMonitoriDoc.pdf</b><br/>
+Le descriptif complet de la config OS sur RPi, du cablage, et de l'exploitation des scripts
+
+<p>Have fun...</p>
+
